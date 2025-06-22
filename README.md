@@ -56,6 +56,11 @@ Aquí están algunas de las tecnologías con las que estoy trabajando:
 
 Si quieres hablar sobre tecnología, programación o alguna oportunidad de colaboración, ¡no dudes en contactarme!
 
+## 📫 ¡Conectemos!
+
+Si quieres hablar sobre tecnología, programación o alguna oportunidad de colaboración, ¡no dudes en contactarme!
+
 <p align="left">
-<a href="https://linkedin.com/in/ https://www.linkedin.com/in/luis-triana-2917202a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt= Luis Triana height="30" width="40" /></a>
+<a href="https://linkedin.com/in/luistriana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tu-LinkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com/Luisito.triana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Tu-Instagram" height="30" width="40" /></a>
 </p>
