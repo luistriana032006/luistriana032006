@@ -52,9 +52,7 @@ Aquí están algunas de las tecnologías con las que estoy trabajando:
 
 ---
 
-## 📫 ¡Conectemos!
 
-Si quieres hablar sobre tecnología, programación o alguna oportunidad de colaboración, ¡no dudes en contactarme!
 
 ## 📫 ¡Conectemos!
 
