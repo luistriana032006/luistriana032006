@@ -45,9 +45,9 @@ Aquí están algunas de las tecnologías con las que estoy trabajando:
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[TU-USUARIO-DE-GITHUB]&show_icons=true&locale=es&theme=dracula&count_private=true" alt="Estadísticas de GitHub" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luistriana032006&show_icons=true&locale=es&theme=dracula&count_private=true" alt="Estadísticas de GitHub" />
   <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username= luistriana032006 &layout=compact&locale=es&theme=dracula" alt="Lenguajes más usados" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luistriana032006&layout=compact&locale=es&theme=dracula" alt="Lenguajes más usados" />
 </p>
 
 ---
