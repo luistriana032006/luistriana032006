@@ -1,7 +1,7 @@
 # ¡Hola, soy Luis miguel triana rueda! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBqNzhvN3RzbGl1eGJ1eHFreDNzN3dhaGI1ZzVpcjZwa2w3c3hpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpYqx/giphy.gif" width="150px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHQ5MnBia2hua2VlNGh6ZmZ0NnMzaGd5djRrenN6ZHB3NG9hcjRmZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LtTChIH4jDHSZha5AJ/giphy.gif" width="150px">
 </p>
 
 ## 🌱 Acerca de mí
