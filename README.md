@@ -2,6 +2,8 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHQ5MnBia2hua2VlNGh6ZmZ0NnMzaGd5djRrenN6ZHB3NG9hcjRmZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LtTChIH4jDHSZha5AJ/giphy.gif" width="150px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRnYTI4ZjF2MWE1emp0YWxkazl0NHFoYzh0OTRhN2lsdnZ4N3gyZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S9d8XB557e8phGLBVS/giphy.gif" width="150px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBweHRhMXgweW12ZzBsMTFocWpzc2Rodm40Mnk0eWEwaDBrZTNiayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGcEliCc7bETyfO8/giphy.gif" width="150px">
 </p>
 
 ## 🌱 Acerca de mí
