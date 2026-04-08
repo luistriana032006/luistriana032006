@@ -64,15 +64,10 @@ API REST que calcula aportes a seguridad social para trabajadores independientes
 ---
 
 ## 📊 Estadísticas de GitHub
-## 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=luistriana032006&theme=dracula" alt="streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luistriana032006&layout=compact&locale=es&theme=dracula&hide=html,css" alt="Lenguajes" />
-  <br><br>
-  <img src="https://myreadme.vercel.app/api/embed/luistriana032006?panels=userstatistics,toplanguages,commitgraph" alt="Stats" />
-</p>
+  <br>
 ---
 
 ## 📫 Conectemos
