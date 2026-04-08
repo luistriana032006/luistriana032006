@@ -10,7 +10,7 @@
 
 Desarrollador de software construyendo desde **Socorro, Santander, Colombia** 🇨🇴
 
-Me especializo en backend con Java y sistemas de IA con Python. Construyo proyectos reales que resuelven problemas reales — sin tutoriales, sin shortcuts.
+Me especializo en backend con Java y sistemas de IA con Python. Construyo proyectos reales que resuelven problemas reales
 
 - 🎓 Ingeniería de Software — Corporación Universitaria Iberoamericana
 - 🤖 Aceptado en **GCI World — Universidad de Tokyo** (2026)
