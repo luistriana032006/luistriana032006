@@ -1,4 +1,4 @@
-# ¡Hola, soy Luis miguel triana rueda! 👋
+# ¡Hola, soy Luis Miguel Triana Rueda! 👋
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHQ5MnBia2hua2VlNGh6ZmZ0NnMzaGd5djRrenN6ZHB3NG9hcjRmZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LtTChIH4jDHSZha5AJ/giphy.gif" width="150px">
@@ -8,59 +8,74 @@
 
 ## 🌱 Acerca de mí
 
-Soy un apasionado desarrollador en formación, con un fuerte interés en dos áreas clave de la tecnología:
+Desarrollador de software construyendo desde **Socorro, Santander, Colombia** 🇨🇴
 
--   **Backend con Java:** Actualmente estoy profundizando en el ecosistema de Java para construir aplicaciones robustas y escalables. Me estoy enfocando en aprender frameworks como **Spring Boot** para crear APIs RESTful y servicios eficientes.
+Me especializo en backend con Java y sistemas de IA con Python. Construyo proyectos reales que resuelven problemas reales — sin tutoriales, sin shortcuts.
 
--   **Ciencia de Datos e IA con Python:** Me fascina el poder de los datos. Estoy explorando librerías como **Pandas**, **NumPy**, y **Scikit-learn** para el análisis de datos, y comenzando a dar mis primeros pasos en el mundo de la Inteligencia Artificial y el Machine Learning.
+- 🎓 Ingeniería de Software — Corporación Universitaria Iberoamericana
+- 🤖 Aceptado en **GCI World — Universidad de Tokyo** (2026)
+- 👨‍🏫 Ex instructor de Java/Spring Boot — enseñé a +220 estudiantes
+- 📍 Construyendo desde un municipio de 30,000 personas sin comunidad tech local
 
-🚀 Siempre estoy buscando aprender nuevas tecnologías y colaborar en proyectos que me permitan crecer como desarrollador.
+---
+
+## 🚀 Proyectos Destacados
+
+### 🔱 [Trident-AI](https://github.com/luistriana032006/trident-ai)
+Sistema de búsqueda inteligente que corre modelos de IA localmente en GPU (AMD/NVIDIA) via Ollama. Sin APIs de pago, sin internet para el core.
+
+- **3 modos:** Local (DeepSeek R1 8B), Entity (Qwen 2.5 1.5B), Search (Qwen 2.5 7B)
+- **Stack:** FastAPI + Spring Boot + Next.js
+- Spring Boot como único API Gateway — el frontend nunca llama directo a Python
+
+### 🏥 [SLAS — Sistema de Liquidación de Aportes](https://github.com/luistriana032006/slas-sistema-de-liquidacion-de-aportes)
+API REST que calcula aportes a seguridad social para trabajadores independientes en Colombia. Actualizada con normativa 2026.
+
+- Calcula IBC, Salud, Pensión, FSP, ARL y CCF
+- **Stack:** Spring Boot + Java 21
+- Presentado a Aportes en Línea
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
-Aquí están algunas de las tecnologías con las que estoy trabajando:
-
-<h4>Lenguajes de Programación:</h4>
+<h4>Lenguajes:</h4>
 <p>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 </p>
 
 <h4>Frameworks y Librerías:</h4>
 <p>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
 </p>
 
 <h4>Herramientas:</h4>
 <p>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
+  <a href="https://ollama.ai/" target="_blank"><img src="https://ollama.ai/public/ollama.png" alt="ollama" width="40" height="40"/></a>
 </p>
 
 ---
 
-## 📊 Mis Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luistriana032006&show_icons=true&locale=es&theme=dracula&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luistriana032006&show_icons=true&locale=es&theme=dracula&count_private=true" alt="Estadísticas de GitHub" />
   <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luistriana032006&layout=compact&locale=es&theme=dracula" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luistriana032006&layout=compact&locale=es&theme=dracula" alt="Lenguajes más usados" />
 </p>
 
 ---
 
-
-
-## 📫 ¡Conectemos!
-
-Si quieres hablar sobre tecnología, programación o alguna oportunidad de colaboración, ¡no dudes en contactarme!
+## 📫 Conectemos
 
 <p align="left">
-<a href="https://www.linkedin.com/in/luis-triana-2917202a2/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tu-LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/Luisito.triana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Tu-Instagram" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/luis-triana-2917202a2/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
+<a href="https://instagram.com/Luisito.triana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>
 </p>
