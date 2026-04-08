@@ -15,7 +15,7 @@ Me especializo en backend con Java y sistemas de IA con Python. Construyo proyec
 - 🎓 Ingeniería de Software — Corporación Universitaria Iberoamericana
 - 🤖 Aceptado en **GCI World — Universidad de Tokyo** (2026)
 - 👨‍🏫 Ex instructor de Java/Spring Boot — enseñé a +220 estudiantes
-- 📍 Construyendo desde un municipio de 30,000 personas sin comunidad tech local
+- 📍 Construyendo desde Socorro, Santander — donde no hay comunidad tech, así que la construyo
 
 ---
 
